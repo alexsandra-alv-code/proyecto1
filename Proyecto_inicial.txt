@@ -1,4 +1,4 @@
 Proyecto inicial
 Hola este es el proyecto inicial en github!
-hay cambios aqui
-en este archivo para los commit
+hay cambios aqui en este archivo para los commit
+Estos son ejemplos de cambios 
