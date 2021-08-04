@@ -14,4 +14,4 @@ Donde y como se levanta, librerias,
 
 # Enlaces
 
-# - [Enlace de la pagina](https://www.facebook.com/groups/345193682221179/)
+- [Enlace de la pagina](https://www.facebook.com/groups/345193682221179/)
